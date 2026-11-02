@@ -1,0 +1,13 @@
+category,monthly_budget_inr,month,source
+Food & Dining,6000,2026-10,synthetic_example
+Groceries,8000,2026-10,synthetic_example
+Transportation,3000,2026-10,synthetic_example
+Shopping,5000,2026-10,synthetic_example
+Bills & Utilities,4500,2026-10,synthetic_example
+Healthcare,2500,2026-10,synthetic_example
+Entertainment,1500,2026-10,synthetic_example
+Education,3000,2026-10,synthetic_example
+Rent & Housing,18000,2026-10,synthetic_example
+Travel,5000,2026-10,synthetic_example
+Personal Care,1500,2026-10,synthetic_example
+Other,2000,2026-10,synthetic_example
